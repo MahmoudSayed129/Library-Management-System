@@ -1,6 +1,12 @@
-# Library Management System
+## Library Management System
 
 A Library Management System is a software system designed to manage libraries and their collections, whether books or other materials. It involves tasks such as tracking the number and classification of books, checking them in and out, selling or renting them, adding new books to the library, handling requests, borrowed items, and borrowers.
+
+
+## Demonstration Video
+
+To view the results of this project, please watch the following YouTube video: [Library Management System Demo](https://youtu.be/vXlEgelxiCI?si=z0zDpVsOFliIgvcu)
+
 
 ## Project Overview
 
@@ -45,6 +51,7 @@ This Django project implements a Library Management System to facilitate the man
 19. **Search Functionality**: Implement search functionality to allow users to search for books based on title, author, category, etc.
 
 20. **Project Completion**: Finalize the project, perform testing, and ensure all features are functioning correctly.
+
 
 ## Conclusion
 
